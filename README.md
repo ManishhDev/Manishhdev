@@ -1,5 +1,15 @@
 # 💫 About Me:
-### 👋 Hey, I'm Manish!<br><br>I'm a Computer Science student who really enjoys building things that are actually useful. Whether it’s writing code, experimenting with AI, or tinkering with systems, I love figuring out how stuff works and turning ideas into real tools.<br><br>I'm into all kinds of tech — programming, AI, cybersecurity, and smart gadgets. I like learning by doing, breaking things (sometimes), and making sense of it all as I go.<br><br>Always up for learning something new, improving my skills, and connecting with people who love tech as much as I do.<br><br>Let’s build cool stuff together! 🚀  <br>📬 [Reach out on LinkedIn](https://www.linkedin.com/in/manishkumar0x/)<br>
+### 👋 Hey, I'm Manish!
+
+I'm a Computer Science student who enjoys building useful and meaningful tech. Whether it’s coding, exploring AI, or diving into Web3, I love figuring out how things work and turning ideas into real tools.
+
+- 🌐 Exploring Web Development, Web3, and AI  
+- 🛠️ Building to learn and solve real-world problems  
+- 💡 Curious about everything from code to systems  
+- 🚀 Always learning, always experimenting
+
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/manishkumar0x/)
+
 
 
 ## 🌐 Socials:
