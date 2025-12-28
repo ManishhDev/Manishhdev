@@ -2,14 +2,12 @@
 ### 👋 Hey, I'm Manish!
 
 About Me
-const Manish = {
-  location: "Chennai, India 🇮🇳",
-  role: "Full Stack Developer",
-  experience: "1+ years",
-  education: "B.E. in Computer Science @ srm",
-  currentFocus: ["WebDev" ,"AI/ML" ],
-  funFact: "I'm a huge coffee lover"
-};
+I'm a Computer Science student who enjoys building useful and meaningful tech. Whether it’s coding, exploring AI, or diving into Web3, I love figuring out how things work and turning ideas into real tools.
+
+- 🌐 Exploring Web Development, Web3, and AI  
+- 🛠️ Building to learn and solve real-world problems  
+- 💡 Curious about everything from code to systems  
+- 🚀 Always learning, always experimenting
 
 
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/manishkumar0x/)
