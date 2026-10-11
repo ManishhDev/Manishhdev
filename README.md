@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Manish Kumar
 
-### Computer Science Student | Full Stack Developer in Progress | AI & Web3 Explorer
+### Computer Science Student | Full Stack Developer in Progress 
 
 I enjoy turning ideas into useful software. I'm a Computer Science student passionate about building web applications, exploring AI, and understanding the systems that power modern technology.
 
