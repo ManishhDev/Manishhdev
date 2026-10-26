@@ -1,35 +1,35 @@
-
-<!-- ===================== HEADER ===================== -->
+# 👋 Hey, I'm Manish Kumar
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=230&section=header&text=Manish%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Manish Kumar profile banner"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+full-stack+web+apps;Exploring+AI;Grinding+DSA+%26+system+design;Always+curious.+Always+building." alt="Typing animation"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ManishhDev&label=Profile+views&color=7aa2f7&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/ManishhDev?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/ManishhDev?label=Followers&style=flat-square&color=7aa2f7&logo=github" alt="Followers"/>
-  </a>
-  <a href="https://github.com/ManishhDev?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/stars/ManishhDev?label=Stars&style=flat-square&color=7aa2f7&logo=github" alt="Stars"/>
+  <a href="https://github.com/ManishhDev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;Building+Ideas+Into+Software;Exploring+AI+%26+System+Design;Learning.+Building.+Improving." alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manishkumar0x/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/ManishhDev">
+    <img src="https://komarev.com/ghpvc/?username=ManishhDev&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
   </a>
-  <a href="mailto:dev.manishh@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/ManishhDev?tab=followers">
+    <img src="https://img.shields.io/github/followers/ManishhDev?style=for-the-badge&color=1d4ed8&label=FOLLOWERS" alt="GitHub followers"/>
   </a>
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manishkumar0x/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dev.manishh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ManishhDev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -37,111 +37,85 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student who enjoys turning ideas into useful software. I learn by building, shipping, and improving, with a focus on web applications, AI, and the systems behind modern technology.
+I'm a Computer Science student passionate about building useful software and solving real-world problems.
 
-```js
+I enjoy exploring full-stack development, learning how systems work behind the scenes, and turning ideas into working applications.
+
+```javascript
 const manish = {
   role: "CS Student & Full Stack Developer",
   location: "Chennai, India",
-  currentlyBuilding: ["Full-stack web apps", "AI-powered tools"],
-  currentlyLearning: ["System Design", "Advanced DSA"],
+  interests: [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "Data Structures & Algorithms",
+    "System Design"
+  ],
   languages: ["C", "C++", "Java", "JavaScript", "TypeScript", "Python"],
-  funFact: "I debug best after a walk, not another coffee ☕",
-  lookingFor: "Internships & open-source collaborations",
+  currentlyLearning: ["Advanced DSA", "System Design"],
+  openTo: ["Internships", "Open Source", "Collaborations"],
+  motto: "Build consistently. Improve continuously."
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py&perline=6" alt="Programming languages"/>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py" alt="Programming languages"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,express&perline=7" alt="Frontend and backend technologies"/>
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,express" alt="Frontend and backend technologies"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,vscode,postman,vercel,figma&perline=10" alt="Databases and development tools"/>
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis,git,github,vscode,postman,figma" alt="Databases and developer tools"/>
 </p>
 
 <details>
-  <summary><b>📚 Currently Exploring</b></summary>
-  <br>
+  <summary><b>📚 What I'm Currently Exploring</b></summary>
 
-  | Area | Focus |
-  |------|-------|
-  | 🌐 Full Stack | Authentication, REST APIs, state management, deployment |
-  | 🤖 AI | LLM-powered features, prompt design, API integrations |
-  | 🧠 CS Fundamentals | Data structures, algorithms, system design |
+  <br/>
+
+  | Domain | Learning Focus |
+  |:--|:--|
+  | 🌐 Web Development | REST APIs, authentication, deployment |
+  | 🤖 AI Engineering | LLMs, prompt engineering, AI integrations |
+  | 🧠 Computer Science | DSA, algorithms, system design |
   | ⚙️ Backend Engineering | Database design, caching, API security |
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
-
-<p>
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Mini%20Centralized%20Exchange-CEX-7AA2F7?style=for-the-badge&logo=typescript&logoColor=white" alt="Mini Centralized Exchange"/>
-  </a>
-</p>
-
-A backend-focused exchange project exploring authentication, APIs, caching, and database design.
-
-**Tech Stack:** `TypeScript` `Bun` `Express.js` `Redis` `Prisma` `PostgreSQL` `JWT` `Zod`
-
-<p>
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PayWave-Full%20Stack%20App-7AA2F7?style=for-the-badge&logo=react&logoColor=white" alt="PayWave"/>
-  </a>
-</p>
-
-A full-stack payment application built to explore modern frontend and backend development.
-
-**Tech Stack:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-<p>
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Trello%20Clone-Task%20Management-7AA2F7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Clone"/>
-  </a>
-</p>
-
-A task and board management application inspired by collaborative project management tools.
-
-**Tech Stack:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-<p>
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Library%20Management%20System-JavaFX-7AA2F7?style=for-the-badge&logo=java&logoColor=white" alt="Library Management System"/>
-  </a>
-</p>
-
-A desktop application concept for managing library resources and student book borrowing.
-
-**Tech Stack:** `Java` `JavaFX` `PostgreSQL`
-
-> **Important:** Replace the project links above with the actual repository URLs. They currently point to your GitHub profile.
-
----
-
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManishhDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics"/>
+  <a href="https://github.com/ManishhDev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManishhDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub statistics"/>
   </a>
-  <a href="https://github.com/ManishhDev?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=ManishhDev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <a href="https://github.com/ManishhDev">
+    <img height="165" src="https://streak-stats.demolab.com/?user=ManishhDev&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ManishhDev" target="_blank" rel="noopener noreferrer">
-    <img src="https://ghchart.rshah.org/7aa2f7/ManishhDev" alt="GitHub contribution calendar" width="95%"/>
+  <a href="https://github.com/ManishhDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishhDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" height="165" alt="Most used programming languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ManishhDev">
+    <img src="https://ghchart.rshah.org/60A5FA/ManishhDev" width="95%" alt="GitHub contribution graph"/>
   </a>
 </p>
 
@@ -149,28 +123,35 @@ A desktop application concept for managing library resources and student book bo
 
 ## 🏆 Achievements
 
-- 🥇 First Prize — Techknow 2025
-- 🚀 Top 25 — Foundathon 3.0
-- 💡 Final Round — Hack for Humanity
-- 💻 Solved 100+ problems on LeetCode
+<p>
+  <img src="https://img.shields.io/badge/🥇_Techknow_2025-1st_Prize-f59e0b?style=for-the-badge" alt="Techknow first prize"/>
+  <img src="https://img.shields.io/badge/🚀_Foundathon_3.0-Top_25-2563eb?style=for-the-badge" alt="Foundathon top 25"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/💡_Hack_for_Humanity-Final_Round-7c3aed?style=for-the-badge" alt="Hack for Humanity final round"/>
+  <img src="https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode problems solved"/>
+</p>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
-I'm always open to project ideas, open-source work, internships, and learning from other developers. If you're building something interesting, reach out!
+I'm always interested in meeting developers, collaborating on open-source projects, and learning new technologies.
 
 <p align="center">
-  <a href="mailto:dev.manishh@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Say%20Hello-dev.manishh%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
+  <a href="https://www.linkedin.com/in/manishkumar0x/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/manishkumar0x/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <a href="mailto:dev.manishh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Building today. Getting better every day.</i> ✨
+  <i>「 Building today. Becoming better every day. 」</i> ✨
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer banner"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=120&section=footer" width="100%" alt="Footer banner"/>
+</p>
