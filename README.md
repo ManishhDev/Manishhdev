@@ -1,4 +1,3 @@
-# 👋 Hey, I'm Manish Kumar
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=230&section=header&text=Manish%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Manish Kumar profile banner"/>
