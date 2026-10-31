@@ -99,7 +99,7 @@ const manish = {
 
 <p align="center">
   <a href="https://github.com/ManishhDev">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManishhDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub statistics"/>
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ManishhDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub statistics"/>
   </a>
   <a href="https://github.com/ManishhDev">
     <img height="165" src="https://streak-stats.demolab.com/?user=ManishhDev&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak"/>
@@ -108,7 +108,7 @@ const manish = {
 
 <p align="center">
   <a href="https://github.com/ManishhDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishhDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" height="165" alt="Most used programming languages"/>
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ManishhDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" height="165" alt="Most used programming languages"/>
   </a>
 </p>
 
